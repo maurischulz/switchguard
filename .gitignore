@@ -1,0 +1,32 @@
+# Ambiente Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Dados (não versionar a base da Motiva nem dados tratados)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Segredos e configurações locais
+.env
+*.key
+credentials*.json
+
+# Power BI - arquivos temporários
+~$*.pbix
+*.pbix.bak
+
+# Office - arquivos temporários
+~$*.docx
+~$*.pptx
+~$*.xlsx
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/settings.json
