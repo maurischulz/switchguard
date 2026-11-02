@@ -1,0 +1,17 @@
+Enterprise Challenge FIAP - Motiva Trilhos
+Sprint 1 - Ideacao e arquitetura da solucao
+
+Turma: 1TSCOR
+Projeto: SwitchGuard
+Grupo: SwitchGuard (projeto individual)
+
+Integrantes (ordem alfabetica):
+Mauri Schulz - RM 575330
+
+Links do projeto (acesso publico, sem necessidade de permissao):
+
+Painel SwitchGuard (Power BI - prototipo com dados ficticios):
+https://app.powerbi.com/view?r=eyJrIjoiZTI5N2Q0MDEtOTc5OC00MWYxLThiYzAtM2E1MzFmN2MwYjI3IiwidCI6Ijk5MTIyNzllLWMyNzQtNGQ3NS04YWUwLTM2NWY0YWM3MDFjNSJ9
+
+Repositorio GitHub:
+https://github.com/maurischulz/switchguard

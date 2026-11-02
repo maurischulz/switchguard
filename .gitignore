@@ -19,6 +19,9 @@ credentials*.json
 # Power BI - arquivos temporários
 ~$*.pbix
 *.pbix.bak
+# Power BI Project (.pbip) - cache e configurações locais
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
 
 # Office - arquivos temporários
 ~$*.docx

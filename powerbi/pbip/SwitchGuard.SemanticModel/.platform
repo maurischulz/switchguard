@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "SwitchGuard"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "a51d9255-171e-4e24-b458-0c9c2b1128ec"
+  }
+}
